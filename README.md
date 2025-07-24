@@ -1,4 +1,4 @@
-# 👋 UwU Bakan OwO
+# 👋 Bakansm
 
 ![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-f5a623?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/-bakansm-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/bakansm)
