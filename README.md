@@ -39,10 +39,4 @@
 
 ---
 
-## 🐾 Fun Fact
-
-> “Frontend focused, backend curious, blockchain explorer, and AI dreamer.”
-
----
-
 ![Profile views](https://komarev.com/ghpvc/?username=bakansm&style=for-the-badge)
