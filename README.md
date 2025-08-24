@@ -1,4 +1,7 @@
-# 👋 Bakansm
+# ♡UωU♡ Bakanshm~ uwuuuu~ (≽^⩊^≼)💖👉👈
+
+- I ish fuww-time fwontend devewopew~ 🖥️💕
+- I haz some expewience working in backend, web3, and AI too~!! (ฅ>ω<ฅ)🎀⚡
 
 ![Location](https://img.shields.io/badge/Ho%20Chi%20Minh%20City-Vietnam-f5a623?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/-bakansm-333?logo=github&logoColor=white&style=for-the-badge)](https://github.com/bakansm)
@@ -15,7 +18,7 @@
 
 ---
 
-## ⚡️ GitHub Stats
+## ⚡️Iw wan show off youw GitHub statshhh~?? (ฅ≽>︿<≼ฅ)✨📊💻
 
 ![bakansm's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakansm&show_icons=true&theme=radical&hide_border=true)
 
@@ -23,7 +26,7 @@
 
 ---
 
-## 🚀 My techstacks
+## 🚀 Ehehe~ tech stackshhh~!! (≽^⩊^≼)✨💻💕
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=for-the-badge)
