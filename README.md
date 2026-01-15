@@ -11,11 +11,6 @@
 ![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-29b6f6?logo=ethereum&logoColor=white&style=for-the-badge)
 ![AI Enthusiast](https://img.shields.io/badge/-AI%20Enthusiast-ff4081?logo=ai&logoColor=white&style=for-the-badge)
 
-![Solana](https://img.shields.io/badge/-Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Sui Foundation](https://img.shields.io/badge/-Sui%20Foundation-6FBCF0?style=for-the-badge&logo=sui&logoColor=white)
-![NEAR Foundation](https://img.shields.io/badge/-NEAR%20Foundation-111?style=for-the-badge&logo=near&logoColor=white)
-![Monad Foundation](https://img.shields.io/badge/-Monad%20Foundation-7C3AED?style=for-the-badge&logo=blockchain&logoColor=white)
-
 ---
 
 ## ⚡️Iw wan show off youw GitHub statshhh~?? (ฅ≽>︿<≼ฅ)✨📊💻
